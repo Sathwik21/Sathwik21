@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Sathwik Reddy Nalla!  
+# 👋 Hello, I'm Sathwik Nalla!  
 
 **Software Developer | AWS Certified Developer Associate**
 
