@@ -3,7 +3,7 @@
 **Software Developer | Microsoft Certified Azure Developer Associate**
 
 ## 🚀 About Me
-* 📈 Over 2 years of experience specializing in building scalable, cloud-native architectures and fault-tolerant distributed systems.
+* 📈 Over 3 years of experience specializing in building scalable, cloud-native architectures and fault-tolerant distributed systems.
 * 🛠️ Proficient in Java, Python, and C++ with hands-on experience designing microservices, secure REST APIs, and event-driven systems within AWS ecosystems.
 * 🏆 Experienced in taking end-to-end ownership-from system design and development to deployment, monitoring, and operational excellence-delivering high-quality.
 
