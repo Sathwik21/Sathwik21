@@ -22,12 +22,6 @@
 
 ## 💼 Professional Experience
 
-### **Software Engineer Intern** | Community Dreams Foundation | USA
-*Jan 2026 – Present* 
-
-* Deployed services on AWS (EC2, Lambda) and automated builds using GitHub Actions and Jenkins for  consistent CI/CD releases. 
-* Wrote unit and integration tests using JUnit and Mockito, maintaining over 90% code coverage and improving  release stability. 
-
 ### **Graduate Teaching Assistant** | UCO | Edmond, OK, USA
 *Feb 2024 – Dec 2025* 
 
