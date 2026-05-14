@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Sathwik Nalla!  
 
-**Software Developer | AWS Certified Developer Associate**
+**Software Developer | Microsoft Certified Azure Developer Associate**
 
 ## 🚀 About Me
 * 📈 Over 2 years of experience specializing in building scalable, cloud-native architectures and fault-tolerant distributed systems.
