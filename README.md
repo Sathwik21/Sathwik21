@@ -22,12 +22,12 @@
 
 ## 💼 Professional Experience
 
-### **Graduate Teaching Assistant** | UCO | Edmond, OK, USA
-*Feb 2024 – Dec 2025* 
+### **Software Developer** | Goldman Sachs | USA
+*Mar 2025 – Present* 
 
-* Assisted in teaching Data Structures, Algorithms, and Object-Oriented Programming, mentoring 80+ students in implementing scalable and efficient solutions using Java and Python.  
-* Conducted lab sessions on distributed systems concepts, database design, and cloud computing fundamentals, helping students understand fault tolerance, scalability, and microservices principles. 
-* Collaborated with faculty to improve course materials and automate grading workflows using Python scripts, demonstrating ownership and operational efficiency in an academic environment.
+* Developed Python-based REST APIs with integrated web security measures, collaborating with cross-functional teams to support scalable backend services used by over 15 internal applications.
+* Optimized complex SQL queries and refined data models in MySQL databases, improving data retrieval speed by 35% and ensuring consistent transactional integrity.
+* Implemented CI/CD pipelines using Git and AWS, communicating deployment status and changes effectively to stakeholders, resulting in a 40% reduction in deployment errors.
 
 ### **Software Developer** | Hitachi Vantara | Hyderabad, India
 *Jan 2022 – Dec 2023* 
